@@ -18,6 +18,12 @@ My goal is to gain many skils but before other skills i want to become a profess
 ## Dreams
 My dream is very big and i cant tell anyboady but, now my dream is to become a successful software engineer, contribute to innovative technology projects, and inspire others through continuous learning and hard work.
 
+## Languages
+- English
+- Urdu
+- Pushto
+- Punjabi
+
 ## Technologies Used
 - HTML
 - CSS
